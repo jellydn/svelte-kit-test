@@ -23,7 +23,7 @@
 		"postcss-load-config": "3.0.1",
 		"prettier": "2.3.0",
 		"prettier-plugin-svelte": "2.3.0",
-		"sass": "1.32.12",
+		"sass": "1.80.3",
 		"svelte": "3.38.2",
 		"svelte-preprocess": "4.7.3",
 		"tailwindcss": "2.1.2",
